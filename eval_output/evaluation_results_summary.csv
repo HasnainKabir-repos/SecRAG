@@ -1,0 +1,4 @@
+,TP,FP,FN,TN,precision,recall,f1,accuracy,cwe_accuracy,cwe_micro_precision,cwe_micro_recall,cwe_micro_f1,cwe_macro_precision,cwe_macro_recall,cwe_macro_f1,cwe_weighted_precision,cwe_weighted_recall,cwe_weighted_f1,evaluated_rows,dropped_rows
+gpt_40_mini_results.parquet,698,839,175,541,45.41%,79.95%,57.93%,54.99%,40.70%,40.70%,40.70%,40.70%,3.83%,4.41%,3.92%,57.82%,40.70%,45.02%,2253,0
+gpt_41_results.parquet,502,339,367,1034,59.69%,57.77%,58.71%,68.51%,61.37%,61.37%,61.37%,61.37%,25.28%,21.50%,22.87%,61.75%,61.37%,61.28%,2242,11
+llama_3_3_results.parquet,495,447,378,933,52.55%,56.70%,54.55%,63.38%,53.66%,53.66%,53.66%,53.66%,6.07%,4.89%,5.31%,57.65%,53.66%,55.29%,2253,0
